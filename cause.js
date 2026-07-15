@@ -6,17 +6,17 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Semoga kamu selalu dilimpaahkan rezekinya dan kesehatan dan bahagia selalu. 🌸 ", 
+        text: "Kamu cewe tercantik yang pernah aku temui. 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Aku berharap kamu dapat menjadi sukses daan terus tersenyum dan bahagia. ✨ ", 
+        text: "kamu cewe cewe yaang baik sayang kamu bimbing aku. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: " Sayangku Cintaku aku sangat mencintaimu semoga takdir menyatukan kita ", 
+        text: " Aku diperlakukan kaya anak kecil daan aku bisa panggil mommy ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
