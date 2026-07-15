@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "kamu adalah orang termanis yang pernah aku temui selama hidupku,aku besyukur bisa bertemu dengan mu sayngku. 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "Semoga kamu selalu dilimpaahkan rezekinya dan kesehatan dan bahagia selalu. 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "Aku berharap kamu dapat menjadi sukses daan terus tersenyum dan bahagia. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: " Sayangku Cintaku aku sangat mencintaimu semoga takdir menyatukan kita ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
